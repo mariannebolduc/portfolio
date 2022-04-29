@@ -15,7 +15,14 @@ const About: React.FC = () => {
       <h2 className="about-title">à propos de moi</h2>
       <Paragraphs paragraphs={content} />
       <div className="download-container">
-        <a href={"/CV_marianneBolduc.pdf"} download={"CV_marianneBolduc.pdf"}>
+        <a
+          href={
+            "https://mariannebolduc.github.io/portfolio/CV_marianneBolduc.pdf"
+          }
+          download
+          target="_blank"
+          rel="noreferrer"
+        >
           <HiOutlineDocumentDownload size={70} />
           <span className="link-text download-text">Télécharger mon CV</span>
         </a>
