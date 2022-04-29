@@ -20,7 +20,7 @@ const CardList: React.FC<Props> = ({ cards }) => {
       <p className="card-list-paragraph">
         Je m’appelle Marianne ! Je suis{" "}
         <span className="bold-text">designer UX/UI</span> passionnée
-        d’interfaces de jeux vidéo et actuellement étudiante à la maitrise en
+        d’interfaces de jeux vidéo et actuellement étudiante à la maîtrise en
         design d’interaction de l’Université Laval.
       </p>
       <p>
