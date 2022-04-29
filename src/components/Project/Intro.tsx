@@ -23,7 +23,7 @@ const Intro: React.FC<Props> = ({ introInfo }) => {
         </div>
         <div>
           <h3>Outils logiciels</h3>
-          <BasicList items={introInfo.roles} />
+          <BasicList items={introInfo.tools} />
         </div>
         <div>
           <h3>Équipe</h3>

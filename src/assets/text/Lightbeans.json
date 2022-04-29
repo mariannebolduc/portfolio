@@ -1,6 +1,6 @@
 {
   "intro": {
-    "mainTitle": "eyeDesigner",
+    "mainTitle": "Lightbeans",
     "subtitle": "Jeu watchOs inspiré de Reigns",
     "authors": "Romain Heuberger et Pierre-Olivier Marotte",
     "roles": [
@@ -135,7 +135,7 @@
       "image": "04"
     },
     "solution": {
-      "title": "solution",
+      "title": "Solution",
       "content": "Après les constats, nous avons commencé la phase de conception des maquettes de l’OpenCart. La création de la solution s’est faite de façon itérative et a débuté par un « brainstorm » en équipe sur les fonctionnalités et le positionnement des différentes composantes de l’interface. Je me suis ensuite chargé d’illustrer les interfaces. Après avoir discuté avec Lightbeans, nous avons pu entamer la mise au propre en ajoutant des éléments de style qui ont fait évoluer davantage les maquettes. Voici le résultat final :",
       "image": "05",
       "section1": {
@@ -186,7 +186,7 @@
     }
   },
   "conclusion": {
-    "title": "Tests utilisateurs",
+    "title": "Conclusion",
     "part1": "Cette expérience de consultation a été enrichissante et a développé une grande variété de compétences dans une situation concrète avec des enjeux et des problèmes complexes. Nous avons appris à être plus autonomes et organisés dans notre démarche de design. Les présentations effectuées et la collaboration avec Lightbeans nous ont permis d’améliorer nos compétences en communication pour être en mesure d’expliquer et justifier clairement nos choix. Notre équipe a également gardé une excellente ambiance de travail tout au long du projet en conservant une bonne transparence et en respectant les forces et les faiblesses de chacun. L’équipe de Lightbeans nous a même écrit une ",
     "bold": "lettre de reconnaissance",
     "part2": "soulignant leur appréciation de notre travail et la qualité des livrables que nous leur avons remis."
