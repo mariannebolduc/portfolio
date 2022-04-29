@@ -10,6 +10,7 @@ import MathEnJeu from "./pages/Projects/MathEnJeu/MathEnJeu";
 import Lightbeans from "./pages/Projects/Lightbeans/Lightbeans";
 import EyeDesigner from "./pages/Projects/EyeDesigner/EyeDesigner";
 import { ReactComponent as ScrollButton } from "./assets/images/scroll_up_button.svg";
+import ScrollUp from "./components/ScrollUp/ScrollUp";
 
 function App() {
   const [cards] = useState<CardInfo[]>([
@@ -45,6 +46,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter basename="/portfolio">
+        <ScrollUp />
         <Header scrolled={scrolled} />
         <div className="App-content">
           <Routes>
