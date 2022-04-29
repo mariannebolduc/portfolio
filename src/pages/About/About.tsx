@@ -36,6 +36,8 @@ const About: React.FC = () => {
         <a
           className="link-text"
           href="https://www.linkedin.com/in/marianne-bolduc-1b419a171/"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Linkedin
         </a>

@@ -14,12 +14,16 @@ const Footer: React.FC = () => {
         <a
           className="linkedin-icon"
           href="https://www.linkedin.com/in/marianne-bolduc-1b419a171/"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <FaLinkedinIn />
         </a>
         <a
           className="behance-icon"
           href="https://www.behance.net/mariannebolduc"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <FaBehance />
         </a>
