@@ -43,7 +43,7 @@ const EyeDesigner: React.FC = () => {
           </span>
           {mandate.section.content1_3}
         </p>
-        <p>{mandate.section.content2}</p>
+        <p style={{ marginTop: "20px" }}>{mandate.section.content2}</p>
       </div>
       <SmallSection
         title={priorityList.title}
