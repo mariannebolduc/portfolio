@@ -20,22 +20,21 @@
   "content": {
     "context": {
       "title": "Mise en contexte",
-      "content1": "Lors de ce projet, mon équipe et moi avons agi à titre de consultants auprès de Lightbeans, une compagnie cherchant à renouveler l’expérience d’achat en ligne pour rapprocher les humains des produits visuellement complexes, particulièrement pour les matériaux de surface tels que le plancher, la céramique et la maçonnerie. Pour y arriver, ils développent des technologies interactives de vision artificielle et d’infographie 3D basées sur un haut niveau de réalisme et de fidélité des produits.",
+      "content1": "Lors de ce projet, mon équipe et moi avons agi à titre de consultants auprès de Lightbeans, une compagnie cherchant à renouveler l’expérience d’achat en ligne pour rapprocher les humains des produits visuellement complexes, particulièrement pour les matériaux de surface tels que le plancher, la céramique et la maçonnerie. Pour y arriver, ils développent des technologies interactives de vision artificielle et d’infographie 3D basées sur un haut niveau de réalisme et de fidélité des produits. L’offre de Lightbeans se décline actuellement en trois services.",
       "items": [
         {
-          "title": "Quoi :",
-          "description": " Comprendre les besoins des consommateurs et des professionnels lors du processus de magasinage de matériaux de finition en personne et en ligne."
+          "title": "eSamples :",
+          "description": " Les eSamples permettent de visualiser en détail la finition, la texture, les particularités et les reliefs d’un matériau. Ceux-ci prennent la forme d’un modèle 3D du produit avec lequel l’utilisateur peut interagir."
         },
         {
-          "title": "Comment :",
-          "description": " En discutant et en observant les distributeurs, les manufacturiers, les consommateurs et les professionnels de la construction et de la rénovation."
+          "title": "Smart Textures :",
+          "description": " Les Smart Textures sont des textures 3D pouvant être utilisées par les designers et les architectes dans différents logiciels de rendus."
         },
         {
-          "title": "Pourquoi :",
-          "description": " Pour nous permettre de créer le module OpenCart répondant aux besoins des utilisateurs et favorisant son adoption par de nouveaux clients."
+          "title": "Décors virtuels :",
+          "description": " Les décors virtuels servent à mettre en valeur le matériau dans une scène fictives photoréaliste."
         }
-      ],
-      "content2": "Ensuite, nous avons rédigé des objectifs de recherche spécifiques aux différents publics soit les clients de Lightbeans (les fournisseurs de matériaux) et les utilisateurs de l’OpenCart. Nous cherchions généralement à connaitre leurs attentes, leurs inquiétudes, leurs processus de vente ou d’achat, les irritants qu’ils rencontrent, etc."
+      ]
     },
     "mandate": {
       "title": "Mandat",

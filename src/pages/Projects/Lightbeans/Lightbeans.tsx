@@ -40,7 +40,7 @@ const Lightbeans: React.FC = () => {
         <h2>{context.title}</h2>
         <p>{context.content1}</p>
         <BoldList items={context.items} />
-        <p>{context.content2}</p>
+        <img src={lightbeans_01_Services} alt="" />
       </div>
       <div>
         <h2>{mandate.title}</h2>
@@ -63,16 +63,21 @@ const Lightbeans: React.FC = () => {
             <Section
               title={research.ecosystem.title}
               content={research.ecosystem.content}
-              image={lightbeans_01_Services}
+              image={""}
             />
           </div>
           <Paragraphs paragraphs={research.ecosystem.paragraphs} />
           <img src={lightbeans_02_Ecosysteme} alt="" />
         </div>
         <Section
+          title={research.fieldResearch.title}
+          content={research.fieldResearch.content}
+          image={lightbeans_03_Observation}
+        />
+        <Section
           title={research.interview1.title}
           content={research.interview1.content}
-          image={lightbeans_03_Observation}
+          image={""}
         />
         <Section
           title={research.interview2.title}
@@ -87,6 +92,7 @@ const Lightbeans: React.FC = () => {
       </div>
       <div>
         <h2>{constats.title}</h2>
+        <p style={{ marginBottom: "10px" }}>{constats.content}</p>
         <p className={"bold-text"}>{constats.c1.title}</p>
         <BasicList items={constats.c1.items} />
         <p className={"bold-text"}>{constats.c2.title}</p>

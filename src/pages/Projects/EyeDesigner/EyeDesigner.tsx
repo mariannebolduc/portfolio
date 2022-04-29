@@ -9,6 +9,7 @@ import {
 } from "..";
 import eyeDesignerJson from "../../../assets/text/EyeDesigner.json";
 import Intro from "../../../components/Project/Intro";
+import Paragraphs from "../../../components/Project/Paragraphs";
 import SmallSection from "../../../components/Project/SmallSection";
 import "../projectStyles.css";
 
@@ -28,6 +29,21 @@ const EyeDesigner: React.FC = () => {
       <div>
         <h2>{mandate.title}</h2>
         <p>{mandate.content}</p>
+        <h3>{mandate.section.title}</h3>
+        <p>
+          {mandate.section.content1}
+          <span style={{ fontSize: "18px" }} className="link-text">
+            <a
+              href="https://reignsgame.com/reigns/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {mandate.section.content1_2}
+            </a>
+          </span>
+          {mandate.section.content1_3}
+        </p>
+        <p>{mandate.section.content2}</p>
       </div>
       <SmallSection
         title={priorityList.title}

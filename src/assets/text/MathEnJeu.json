@@ -44,7 +44,7 @@
     },
     "functionalSketch": {
       "title": "Maquettes fonctionnelles",
-      "content1": " partir de ce schéma, j’ai été en mesure de commencer la création de maquettes fonctionnelles pour la première version du jeu. J’ai d’abord énuméré tous les écrans qui allaient être nécessaires, dont ceux qui étaient manquants dans le MVP, mais qui devaient être pris en compte pour la suite, notamment les écrans de résultats à la fin d’une partie. Ensuite, j’ai listé en ordre de priorités les informations et les fonctionnalités qui allaient se retrouver sur chacun des écrans. Par exemple, lorsque le joueur est sur le plateau de jeu, il doit être en mesure de voir facilement et rapidement :",
+      "content1": "À partir de ce schéma, j’ai été en mesure de commencer la création de maquettes fonctionnelles pour la première version du jeu. J’ai d’abord énuméré tous les écrans qui allaient être nécessaires, dont ceux qui étaient manquants dans le MVP, mais qui devaient être pris en compte pour la suite, notamment les écrans de résultats à la fin d’une partie. Ensuite, j’ai listé en ordre de priorités les informations et les fonctionnalités qui allaient se retrouver sur chacun des écrans. Par exemple, lorsque le joueur est sur le plateau de jeu, il doit être en mesure de voir facilement et rapidement :",
       "list": [
         "Sa position sur le plateau",
         "Les items qu’il peut ramasser sur le plateau",
