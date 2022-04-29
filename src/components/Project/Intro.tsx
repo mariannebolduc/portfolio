@@ -17,15 +17,15 @@ const Intro: React.FC<Props> = ({ introInfo }) => {
         <h3>{introInfo.subtitle}</h3>
       </div>
       <div className="project-details-container">
-        <div>
+        <div className="project-details-flex-item">
           <h3>Mon rôle</h3>
           <BasicList items={introInfo.roles} />
         </div>
-        <div>
+        <div className="project-details-flex-item">
           <h3>Outils logiciels</h3>
           <BasicList items={introInfo.tools} />
         </div>
-        <div>
+        <div className="project-details-flex-item">
           <h3>Équipe</h3>
           <p>{introInfo.authors}</p>
         </div>

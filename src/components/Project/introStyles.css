@@ -22,3 +22,8 @@
   flex-direction: row;
   gap: 60px;
 }
+
+.project-details-flex-item {
+  flex-grow: 1;
+  flex-basis: 0;
+}
