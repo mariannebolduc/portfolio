@@ -17,10 +17,24 @@
 
 .nav-item-left {
   margin: auto;
-  margin-left: 80px;
+  flex-basis: 30%;
+  margin-left: 15px;
 }
 
 .nav-item-right {
   margin: auto;
-  margin-right: 80px;
+  flex-basis: 30%;
+  margin-right: 15px;
+}
+
+@media only screen and (min-width: 768px) {
+  .nav-item-left {
+    flex-basis: auto;
+    margin-left: 80px;
+  }
+
+  .nav-item-right {
+    flex-basis: auto;
+    margin-right: 80px;
+  }
 }

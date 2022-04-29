@@ -15,7 +15,6 @@ body h1 {
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
-  line-height: 45px;
 }
 
 body h2 {
@@ -33,14 +32,14 @@ body p {
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 35px;
+  white-space: normal;
+  overflow-wrap: normal;
 }
 
 body li {
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 35px;
 }
 
 .smol-text {
@@ -54,7 +53,6 @@ body li {
   text-decoration: none;
   font-weight: 700;
   font-size: 20px;
-  line-height: 35px;
   color: black;
   border-bottom: 3px solid;
   border-bottom-color: #f0c42e;
