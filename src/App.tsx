@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter basename="/portfolio-marianne">
+      <BrowserRouter basename="/portfolio">
         <Header scrolled={scrolled} />
         <div className="App-content">
           <Routes>

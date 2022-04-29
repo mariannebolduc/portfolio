@@ -1,6 +1,6 @@
 {
-  "name": "portfolio-marianne",
-  "homepage": "https://jpbureau.github.io/portfolio-marianne",
+  "name": "portfolio",
+  "homepage": "https://mariannebolduc.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
