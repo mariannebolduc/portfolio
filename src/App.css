@@ -17,15 +17,19 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  margin-right: 50px;
+  margin-right: 80px;
   margin-bottom: 100px;
-  opacity: 0.7;
+  opacity: 1;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .scrollButton {
-    margin-right: 80px;
-    opacity: 1;
+    margin-right: 50px;
+    opacity: 0.7;
+  }
+  .App-content {
+    margin-left: 12px;
+    margin-right: 12px;
   }
 }
 
