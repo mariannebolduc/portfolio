@@ -1,0 +1,30 @@
+.card-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  row-gap: 60px;
+  column-gap: 60px;
+}
+
+.card-list-container {
+  padding-bottom: 50px;
+}
+
+.card-list-container > h2 {
+  text-align: center;
+}
+
+.card-list-container > p {
+  text-align: center;
+}
+
+.navlink-card-list {
+  text-align: center;
+}
+
+.card-list-paragraph {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}

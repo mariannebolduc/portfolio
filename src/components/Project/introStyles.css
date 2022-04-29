@@ -1,0 +1,24 @@
+.company-container {
+  text-align: center;
+}
+
+.company-container > img {
+  max-width: 100%;
+  margin: auto;
+  margin-bottom: 64px;
+}
+
+.company-container > h2 {
+  margin: 0px;
+}
+
+.company-container > p {
+  margin: 0px;
+}
+
+.project-details-container {
+  margin-top: 61px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}

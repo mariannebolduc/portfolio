@@ -1,0 +1,22 @@
+.project-container h2 {
+  margin-top: 64px;
+  margin-bottom: 32px;
+}
+
+.project-container h3 {
+  margin-top: 32px;
+  margin-bottom: 24px;
+}
+
+.project-container img {
+  margin-top: 24px;
+  width: 100%;
+}
+
+.project-container p {
+  margin: 0;
+}
+
+.project-final-section {
+  margin-bottom: 64px;
+}

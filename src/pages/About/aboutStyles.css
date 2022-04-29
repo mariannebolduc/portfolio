@@ -1,0 +1,26 @@
+.download-container {
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+.about-title {
+  margin: 0px;
+}
+
+.about-subtitle {
+  margin-top: 32px;
+  margin-bottom: 24px;
+}
+
+.download-container > a {
+  display: flex;
+  align-items: center;
+}
+
+.download-text {
+  margin-bottom: 10px;
+}
+
+.about-container svg path {
+  stroke-width: 1.5;
+}

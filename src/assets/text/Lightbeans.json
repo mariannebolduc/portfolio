@@ -1,0 +1,194 @@
+{
+  "intro": {
+    "mainTitle": "eyeDesigner",
+    "subtitle": "Jeu watchOs inspiré de Reigns",
+    "authors": "Romain Heuberger et Pierre-Olivier Marotte",
+    "roles": [
+      "Création de l’écosystème",
+      "Recherche",
+      "Analyse des données",
+      "Priorisation des fonctionnalités",
+      "Création des maquettes fonctionnelles et haute-fidélité",
+      "Création d’une première version du système de design",
+      "Animation des tests utilisateurs",
+      "Présentation devant le client"
+    ],
+    "tools": ["Figma/FigJam", "Procreate", "Adobe Illustrator", "Google Drive"],
+    "duration": "décembre 2021 à avril 2022",
+    "imageUrl": ""
+  },
+  "content": {
+    "context": {
+      "title": "Mise en contexte",
+      "content1": "Lors de ce projet, mon équipe et moi avons agi à titre de consultants auprès de Lightbeans, une compagnie cherchant à renouveler l’expérience d’achat en ligne pour rapprocher les humains des produits visuellement complexes, particulièrement pour les matériaux de surface tels que le plancher, la céramique et la maçonnerie. Pour y arriver, ils développent des technologies interactives de vision artificielle et d’infographie 3D basées sur un haut niveau de réalisme et de fidélité des produits.",
+      "items": [
+        {
+          "title": "Quoi :",
+          "description": " Comprendre les besoins des consommateurs et des professionnels lors du processus de magasinage de matériaux de finition en personne et en ligne."
+        },
+        {
+          "title": "Comment :",
+          "description": " En discutant et en observant les distributeurs, les manufacturiers, les consommateurs et les professionnels de la construction et de la rénovation."
+        },
+        {
+          "title": "Pourquoi :",
+          "description": " Pour nous permettre de créer le module OpenCart répondant aux besoins des utilisateurs et favorisant son adoption par de nouveaux clients."
+        }
+      ],
+      "content2": "Ensuite, nous avons rédigé des objectifs de recherche spécifiques aux différents publics soit les clients de Lightbeans (les fournisseurs de matériaux) et les utilisateurs de l’OpenCart. Nous cherchions généralement à connaitre leurs attentes, leurs inquiétudes, leurs processus de vente ou d’achat, les irritants qu’ils rencontrent, etc."
+    },
+    "mandate": {
+      "title": "Mandat",
+      "content": "Notre mandat était de concevoir les maquettes pour l’OpenCart, un module inséré sur le site web des fournisseurs de matériaux regroupant les trois services de Lightbeans pour visualiser le produit en détail grâce à différents types d’images. L’objectif derrière la création de cet OpenCart était de faciliter le magasinage et la présélection des matériaux, le tout dans un environnement standardisé et adapté au besoin des différents utilisateurs. De cette façon, l’entreprise souhaite diminuer l’incertitude des consommateurs et ainsi réduire le nombre d’échantillons à commander.",
+      "section": {
+        "title": "Problématiques spécifiques",
+        "content": "Notre équipe devait également prendre en considération d’autres problématiques plus spécifiques pour être en mesure de proposer une solution pertinente pour l’entreprise."
+      },
+      "paragraphs": [
+        "En effet, un des obstacles à l’adoption et la popularisation des services de Lightbeans est leurs intégrations sur les sites web de leurs clients qui les intègrent actuellement par eux-mêmes. Par conséquent, les présentations sont disparates et de qualités inégales pouvant ainsi nuire à l’expérience utilisateur et à la réputation de Lightbeans.",
+        "De plus, les trois services sont vendus séparément et Lightbeans souhaiterait créer un plus grand niveau d’interaction entre eux pour amener les clients à acheter l’ensemble de leur offre.",
+        "Ensuite, les sites de clients de Lightbeans sont consultés par plusieurs catégories d’utilisateurs qui ont tous des objectifs et des connaissances différentes. Il y a des consommateurs, mais aussi des professionnels tels que des architectes, des designers, des vendeurs, des fournisseurs, et des entrepreneurs.",
+        "Pour finir, les eSamples peuvent permettre de créer des catalogues numériques pouvant être envoyés à une autre personne. Toutefois, cette fonctionnalité est offerte uniquement aux employés des fournisseurs et est généralement très peu utilisée. Lightbeans aimerait donc les rendre plus attrayants et accessibles au grand public."
+      ],
+      "content2": "Dans cette première version que nous avons créée, le joueur aura d’abord la possibilité de choisir l’un des quatre métiers suivants : illustrateur, designer graphique, designer UI/UX et designer industriel. Chacun d’eux a leurs particularités, ce qui influencera leurs jauges de départ et les évènements qu’ils rencontreront. Ensuite, il arrivera plusieurs péripéties issues de certains clichés bien connus du domaine qui amènera le joueur à prendre des décisions qui affecteront le niveau de ses quatre jauges (bonheur, stress, réputation et argent). Il pourra, par exemple, avoir à gérer un client qui aimerait avoir un logo plus grand et plus coloré ou encore qui refuse de payer, des problèmes techniques avec son ordinateur et bien plus. Le but est donc de continuer à jouer le plus longtemps possible sans vider complètement l’une des jauges, ce qui met fin à la partie."
+    },
+    "researchMethod": {
+      "title": "Méthodes de recherche",
+      "subtitle": "Plan de recherche",
+      "content1": "Notre démarche a débuté par l’élaboration d’un plan de recherche qui a permis d’établir nos objectifs.",
+      "items": [
+        {
+          "title": "Quoi :",
+          "description": " Comprendre les besoins des consommateurs et des professionnels lors du processus de magasinage de matériaux de finition en personne et en ligne."
+        },
+        {
+          "title": "Comment :",
+          "description": " En discutant et en observant les distributeurs, les manufacturiers, les consommateurs et les professionnels de la construction et de la rénovation."
+        },
+        {
+          "title": "Pourquoi :",
+          "description": " Pour nous permettre de créer le module OpenCart répondant aux besoins des utilisateurs et favorisant son adoption par de nouveaux clients."
+        }
+      ],
+      "content2": "Ensuite, nous avons rédigé des objectifs de recherche spécifiques aux différents publics soit les clients de Lightbeans (les fournisseurs de matériaux) et les utilisateurs de l’OpenCart. Nous cherchions généralement à connaitre leurs attentes, leurs inquiétudes, leurs processus de vente ou d’achat, les irritants qu’ils rencontrent, etc.",
+      "ecosystem": {
+        "title": "Écosystème de l’organisation",
+        "content": "Tout d’abord, nous avons commencé par effectuer une recherche préliminaire sur Lightbeans en consultant leur site web, leurs différents réseaux sociaux, et en discutant avec les trois cofondateurs de l’entreprise.",
+        "paragraphs": [
+          "Nous avons également examiné l’intégration actuelle des produits sur le site des fournisseurs, les technologies existantes aidant la visualisation en 3D, les outils d’aide à la rénovation et les concurrents directs et indirects de Lightbeans.",
+          "L’ensemble de ses recherches nous a permis de créer l’écosystème qui schématise les connaissances acquises lors de cette première phase de recherche et qui facilite la compréhension de l’environnement où la solution devra s’intégrer. J’ai d’ailleurs joué un rôle important dans la création de cet écosystème qui a représenté un défi intéressant pour parvenir à représenter avec fidélité toutes les informations pertinentes pour notre projet sans surcharger le schéma."
+        ],
+        "image": "02"
+      },
+      "fieldResearch": {
+        "title": "Recherche sur le terrain et en ligne",
+        "content": "Notre recherche s’est poursuivie avec de l’observation sur le terrain en magasin et en ligne sur les sites web de ces magasins et des fournisseurs. Cette méthode a permis de se familiariser avec le domaine de la rénovation, de comprendre les avantages et les désavantages de chacun des types de magasinage en plus d’avoir une meilleure idée des informations qu’on peut retrouver et qui sont nécessaires pour prendre une décision.",
+        "image": "03"
+      },
+      "interview1": {
+        "title": "Entrevue avec des utilisateurs",
+        "content": "Les entrevues ont été l’activité la plus enrichissante de notre recherche. Nous avons eu l’opportunité de discuter pendant une heure avec une douzaine de professionnels, dont des architectes, des designers, des représentants et même des gestionnaires de plusieurs compagnies. En plus des entrevues conduites par notre équipe, Lightbeans a partagé avec nous neuf entrevues avec des dirigeants d’entreprise et des représentants menées un an plus tôt."
+      },
+      "interview2": {
+        "title": "Entrevue avec l’équipe de Lightbeans",
+        "content": "Nous avons également mené des entrevues individuelles avec les trois cofondateurs de Lightbeans pour clarifier la vision que chacun d’eux avait face à l’OpenCart et pour en savoir plus sur leurs objectifs à court et à moyen terme. Nous avions senti le besoin d’organiser ces entrevues pour orienter notre proposition non seulement aux besoins des utilisateurs, mais aussi aux désirs de l’équipe de Lightbeans. La création de « lead » est notamment un des éléments importants pour eux qui devait être inclus dans la solution."
+      },
+      "sondage": {
+        "title": "Sondage",
+        "content": "Pour compléter nos recherches, nous avons fait un sondage auprès des consommateurs pour obtenir des données quantitatives et pour clarifier certains points de l’expérience de rénovation."
+      }
+    },
+    "constats": {
+      "title": "Constats",
+      "content": "À la suite de nos activités de recherche, nous avons effectué une analyse exhaustive des transcriptions des entrevues, de nos observations et des résultats du sondage. L’analyse s’est faite en plusieurs étapes pour regrouper progressivement les données entre elles et former de plus grands constats en fonction des tendances observées. Nous avons ensuite rassemblé les grands constats pour en créer de plus généraux listés ci-dessous:",
+      "c1": {
+        "title": "Constats relatifs aux distributeurs et aux fabricants",
+        "items": [
+          "Les clients directs de Lightbeans",
+          "L’intérêt pour les architectes et les designers"
+        ]
+      },
+      "c2": {
+        "title": "Constats relatifs aux designers et architectes",
+        "items": [
+          "La gestion de projet",
+          "L’aspect relationnel",
+          "Le processus de travail",
+          "L’utilisation du web",
+          "Le choix de matériaux",
+          "La création de rendus"
+        ]
+      },
+      "c3": {
+        "title": "Constats relatifs aux consommateurs",
+        "items": [
+          "L’éducation",
+          "L’utilisation du web",
+          "La sélection de matériaux",
+          "L’aspect émotionnel"
+        ]
+      },
+      "paragraphs": [
+        "Par exemple, le constat en lien avec la création de rendus nous a permis de découvrir que: Les architectes et les designers font des rendus pour plusieurs raisons que ce soit pour les aider dans leur processus de travail ou pour leurs clients (1). Toutefois, ils ne cherchent pas toujours à créer des rendus photoréalistes. La plupart du temps, des rendus plus simples, mais satisfaisants vont quand même permettre de bien représenter visuellement leur concept (2).",
+        "(1) Les produits de Lightbeans doivent permettre aux designers et aux architectes d’itérer rapidement et de profiter pleinement des avantages des rendus en s’intégrant de façon limpide à leur processus de création. (2) Ils doivent pouvoir s’adapter aux différents besoins de qualité désirés par les architectes et les designers."
+      ],
+      "image": "04"
+    },
+    "solution": {
+      "title": "solution",
+      "content": "Après les constats, nous avons commencé la phase de conception des maquettes de l’OpenCart. La création de la solution s’est faite de façon itérative et a débuté par un « brainstorm » en équipe sur les fonctionnalités et le positionnement des différentes composantes de l’interface. Je me suis ensuite chargé d’illustrer les interfaces. Après avoir discuté avec Lightbeans, nous avons pu entamer la mise au propre en ajoutant des éléments de style qui ont fait évoluer davantage les maquettes. Voici le résultat final :",
+      "image": "05",
+      "section1": {
+        "title": "Page produit",
+        "content": "La page produit qui permet aux utilisateurs de voir en un coup d’œil les différentes visualisations du matériau qui représente l’ensemble des services de Lightbeans. Chaque image peut d’ailleurs être agrandie selon les besoins de l’utilisateur. La fiche d’information est également un aspect important de la page, car les professionnels doivent avoir accès à ces informations pour faire leurs choix de matériaux.",
+        "image": "06"
+      },
+      "section2": {
+        "title": "Navigation",
+        "content": "L’utilisateur peut également naviguer entre les produits du fournisseur dans le menu de navigation. Dans ce menu, l’utilisateur peut défiler dans la sélection, se servir les filtres pour réduire le nombre de produits affichés ou encore rechercher un produit par son nom, ce qui s’avère utile pour les représentants.",
+        "image": "07"
+      },
+      "section3": {
+        "title": "Catalogue",
+        "content": "Un élément important de l’OpenCart mentionné précédemment est la possibilité d’envoyer des catalogues numériques à une autre personne. Cette fonctionnalité est maintenant accessible à tous et demeure facile et rapide à utiliser pour les représentants.",
+        "image": "08"
+      },
+      "section4": {
+        "title": "Commande",
+        "content": "Éventuellement, Lightbeans souhaiterait aussi offrir à ses clients d’effectuer la gestion de leurs commandes d’échantillons. Nous avons donc prévu les interfaces qui permettraient de le faire.",
+        "image": "09"
+      },
+      "section5": {
+        "title": "Mobile",
+        "content": "Une première version mobile de lOpenCart a aussi été créée suite à une demande de Lightbeans. Étant donné le délai plus serré, nous n’avons pas été en mesure d’effectuer de tests utilisateurs.",
+        "image": "10"
+      }
+    },
+    "tests": {
+      "title": "Tests utilisateurs",
+      "content": "Avant de remettre les maquettes à l’équipe de Lightbeans, nous tenions à effectuer quelques tests utilisateurs pour s’assurer que les utilisateurs étaient en mesure de naviguer facilement et de trouver l’information qu’il avait besoin rapidement. J’ai donc animé des tests de la version « bureau » de l’OpenCart avec des designers, des architectes et des consommateurs. En général, les tests se sont très bien déroulés et nous ont permis de faire quelques améliorations très bénéfiques pour les interfaces."
+    },
+    "devliveries": {
+      "title": "Livrables finaux",
+      "section1": {
+        "title": "Rapport de recommandation",
+        "content": "Ce rapport explique toute notre démarche et propose certaines recommandations pour la suite du projet, notamment d’organiser d’autres tests utilisateurs pour continuer d’améliorer et de peaufiner les interfaces de l’OpenCart."
+      },
+      "section2": {
+        "title": "Maquettes",
+        "content": "Les maquettes ont également été remises à Lightbeans sous la forme d’un fichier PDF et d’un lien Figma."
+      },
+      "section3": {
+        "title": "Système de design",
+        "content": "Pour finir, nous avons aussi envoyé la première version du système de design que j’avais créé dans les dernières semaines du projet et qui nous avait été très utile lors de la création des interfaces. Nous tenions à ce qu’il ait accès à cet outil pour les guider dans la suite du projet. Ils pourront également le compléter et le faire évoluer au fur et à mesure du développement de l’OpenCart.",
+        "image": "11"
+      }
+    }
+  },
+  "conclusion": {
+    "title": "Tests utilisateurs",
+    "part1": "Cette expérience de consultation a été enrichissante et a développé une grande variété de compétences dans une situation concrète avec des enjeux et des problèmes complexes. Nous avons appris à être plus autonomes et organisés dans notre démarche de design. Les présentations effectuées et la collaboration avec Lightbeans nous ont permis d’améliorer nos compétences en communication pour être en mesure d’expliquer et justifier clairement nos choix. Notre équipe a également gardé une excellente ambiance de travail tout au long du projet en conservant une bonne transparence et en respectant les forces et les faiblesses de chacun. L’équipe de Lightbeans nous a même écrit une ",
+    "bold": "lettre de reconnaissance",
+    "part2": "soulignant leur appréciation de notre travail et la qualité des livrables que nous leur avons remis."
+  }
+}

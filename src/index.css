@@ -1,0 +1,82 @@
+body {
+  background-color: #fdf1df;
+  margin: 0;
+  font-family: "Manrope";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+body h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+
+body h2 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+body h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+body p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+body li {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+}
+
+.smol-text {
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+}
+
+.link-text {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 35px;
+  color: black;
+  border-bottom: 3px solid;
+  border-bottom-color: #f0c42e;
+}
+
+.bold-text {
+  font-weight: 800;
+  color: black;
+  text-decoration: none;
+}
+
+.heavy-weight-font {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}

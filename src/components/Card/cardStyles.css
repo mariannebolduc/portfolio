@@ -1,0 +1,20 @@
+.card {
+  width: 300px;
+  height: 385px;
+  background: #fffefc;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+}
+
+.card > h3 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+}
+.card:not(:hover) {
+  transition-duration: 0.25s;
+}
