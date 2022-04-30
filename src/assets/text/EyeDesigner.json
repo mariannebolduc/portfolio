@@ -53,6 +53,6 @@
   },
   "conclusion": {
     "title": "Conclusion",
-    "content": "Math en jeu a été un projet stimulant et enrichissant qui m’a appris beaucoup sur plusieurs aspects de la création de jeu allant de l’animation, à la création d’éléments 3D, à la collaboration avec les programmeurs, jusqu’à l’intégration."
+    "content": "Bien qu’il s’agisse d’une première version qui demeure encore à tester auprès des utilisateurs, ce projet a été très amusant à faire et nous a donné l’opportunité de nous familiariser avec les contraintes et les défis du format watchOS. Avec un délai un peu moins serré, il aurait aussi été intéressant d’explorer les interactions grâce aux commandes vocales et d’avoir accès à un Apple Watch qui aurait permis de vérifier la taille de certains textes qui se sont avérés trop petits dans certains cas. Les rétroactions reçues lors de la soirée portfolio ont tout de même été très encourageantes et formatives en plus de nous en apprendre plus sur l’industrie du jeu vidéo."
   }
 }
