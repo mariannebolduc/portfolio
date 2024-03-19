@@ -45,29 +45,27 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter basename="/portfolio">
-        <ScrollUp />
-        <Header scrolled={scrolled} />
-        <div className="App-content">
-          <Routes>
-            <Route path="/" element={<Main cards={cards} />}></Route>
-            <Route path="/about" element={<About />}></Route>
-            <Route path="/mathEnJeu" element={<MathEnJeu />}></Route>
-            <Route path="/eyeDesigner" element={<EyeDesigner />}></Route>
-            <Route path="/lightbeans" element={<Lightbeans />}></Route>
-          </Routes>
+      <ScrollUp />
+      <Header scrolled={scrolled} />
+      <div className="App-content">
+        <Routes>
+          <Route path="/" element={<Main cards={cards} />}></Route>
+          <Route path="/about" element={<About />}></Route>
+          <Route path="/mathEnJeu" element={<MathEnJeu />}></Route>
+          <Route path="/eyeDesigner" element={<EyeDesigner />}></Route>
+          <Route path="/lightbeans" element={<Lightbeans />}></Route>
+        </Routes>
 
-          {scrolled && (
-            <ScrollButton
-              className="scrollButton"
-              onClick={() =>
-                window.scrollTo({ top: 0, left: 0, behavior: "smooth" })
-              }
-            />
-          )}
-        </div>
-        <Footer />
-      </BrowserRouter>
+        {scrolled && (
+          <ScrollButton
+            className="scrollButton"
+            onClick={() =>
+              window.scrollTo({ top: 0, left: 0, behavior: "smooth" })
+            }
+          />
+        )}
+      </div>
+      <Footer />
     </div>
   );
 }
