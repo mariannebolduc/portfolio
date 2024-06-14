@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cf5f05f5.css",
-    "main.js": "./static/js/main.a1f9646d.js",
+    "main.js": "./static/js/main.a4886f1f.js",
     "static/media/lightbeans_06_PageProduit.png": "./static/media/lightbeans_06_PageProduit.f41775fa53d0b5a6a6d1.png",
     "static/media/lightbeans_07_Navigation.png": "./static/media/lightbeans_07_Navigation.3355095067ed6e58eabb.png",
     "static/media/MEJ_03_Plateau.png": "./static/media/MEJ_03_Plateau.742e32a5f4e293029e1b.png",
@@ -24,9 +24,7 @@
     "static/media/lightbeans_05_MaquettesMain.png": "./static/media/lightbeans_05_MaquettesMain.16248a111c908e01266d.png",
     "static/media/MEJ_02_UserFlow.png": "./static/media/MEJ_02_UserFlow.044ebb3f960e340f4cf1.png",
     "static/media/eD_Load.png": "./static/media/eD_Load.51e90434e3bbdcfa7785.png",
-    "static/media/lightbeans_02_Ecosysteme.png": "./static/media/lightbeans_02_Ecosysteme.92dc47223a531f45455e.png",
     "static/media/MEJ_Load.png": "./static/media/MEJ_Load.79c0e65909bc29a8d455.png",
-    "static/media/lightbeans_04_Analyse.png": "./static/media/lightbeans_04_Analyse.d903e6ea46ec123aadac.png",
     "static/media/05LB.png": "./static/media/05LB.55e585d00b12e73ca306.png",
     "static/media/LB_Load.png": "./static/media/LB_Load.9e588d39f7034380c589.png",
     "static/media/lightbeans_09_Echantillon.png": "./static/media/lightbeans_09_Echantillon.d0e1b670aac956b75d20.png",
@@ -47,10 +45,10 @@
     "static/media/scroll_up_button.svg": "./static/media/scroll_up_button.1adeba5fcc41aadf739f66dbc02c7fb2.svg",
     "index.html": "./index.html",
     "main.cf5f05f5.css.map": "./static/css/main.cf5f05f5.css.map",
-    "main.a1f9646d.js.map": "./static/js/main.a1f9646d.js.map"
+    "main.a4886f1f.js.map": "./static/js/main.a4886f1f.js.map"
   },
   "entrypoints": [
     "static/css/main.cf5f05f5.css",
-    "static/js/main.a1f9646d.js"
+    "static/js/main.a4886f1f.js"
   ]
 }
