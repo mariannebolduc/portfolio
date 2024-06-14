@@ -6,9 +6,7 @@ import eyeD_04_Style from "../../assets/images/projects/eyeDesigner/eyeD_04_Styl
 import eyeD_05_Maquettes from "../../assets/images/projects/eyeDesigner/eyeD_05_Maquettes.png";
 import lightbeans_00_Couverture from "../../assets/images/projects/lightbeans/lightbeans_00_Couverture.png";
 import lightbeans_01_Services from "../../assets/images/projects/lightbeans/lightbeans_01_Services.png";
-import lightbeans_02_Ecosysteme from "../../assets/images/projects/lightbeans/lightbeans_02_Ecosysteme.png";
 import lightbeans_03_Observation from "../../assets/images/projects/lightbeans/lightbeans_03_Observation.png";
-import lightbeans_04_Analyse from "../../assets/images/projects/lightbeans/lightbeans_04_Analyse.png";
 import lightbeans_05_MaquettesMain from "../../assets/images/projects/lightbeans/lightbeans_05_MaquettesMain.png";
 import lightbeans_06_PageProduit from "../../assets/images/projects/lightbeans/lightbeans_06_PageProduit.png";
 import lightbeans_07_Navigation from "../../assets/images/projects/lightbeans/lightbeans_07_Navigation.png";
@@ -34,9 +32,7 @@ export {
   eyeD_05_Maquettes,
   lightbeans_00_Couverture,
   lightbeans_01_Services,
-  lightbeans_02_Ecosysteme,
   lightbeans_03_Observation,
-  lightbeans_04_Analyse,
   lightbeans_05_MaquettesMain,
   lightbeans_06_PageProduit,
   lightbeans_07_Navigation,

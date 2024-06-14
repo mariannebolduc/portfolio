@@ -2,9 +2,7 @@ import React from "react";
 import {
   lightbeans_00_Couverture,
   lightbeans_01_Services,
-  lightbeans_02_Ecosysteme,
   lightbeans_03_Observation,
-  lightbeans_04_Analyse,
   lightbeans_05_MaquettesMain,
   lightbeans_06_PageProduit,
   lightbeans_07_Navigation,
@@ -67,7 +65,6 @@ const Lightbeans: React.FC = () => {
             />
           </div>
           <Paragraphs paragraphs={research.ecosystem.paragraphs} />
-          <img src={lightbeans_02_Ecosysteme} alt="" />
         </div>
         <Section
           title={research.fieldResearch.title}
@@ -100,7 +97,6 @@ const Lightbeans: React.FC = () => {
         <p className={"bold-text"}>{constats.c3.title}</p>
         <BasicList items={constats.c3.items} />
         <Paragraphs paragraphs={constats.paragraphs} />
-        <img src={lightbeans_04_Analyse} alt="" />
       </div>
       <div>
         <h2>{solution.title}</h2>
