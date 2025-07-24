@@ -9,29 +9,20 @@
     "@testing-library/user-event": "^14.5.2",
     "@types/jest": "^29.5.12",
     "@types/node": "^20.11.29",
-    "@types/react-dom": "^18.2.22",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-icons": "^5.0.1",
     "react-router-dom": "^6.22.3",
     "tween.ts": "^18.6.1",
-    "typescript": "^5.4.2",
     "web-vitals": "^3.5.2"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "build-localhost": "PUBLIC_URL=/ react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "deploy": "gh-pages -d dist",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "build-localhost": "PUBLIC_URL=/ vite build"
   },
   "browserslist": {
     "production": [
@@ -47,13 +38,12 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "@types/react": "^18.2.67",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
     "gh-pages": "^6.1.1",
-    "react-scripts": "^5.0.1"
-  },
-  "overrides": {
-    "react-scripts": {
-      "typescript": "^5"
-    }
+    "typescript": "^5.8.3",
+    "vite": "^7.0.5",
+    "vite-plugin-svgr": "^4.3.0"
   }
 }

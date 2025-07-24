@@ -1,3 +1,4 @@
+/// <reference types="vite-plugin-svgr/client" />
 import { useEffect, useState } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
@@ -9,7 +10,7 @@ import CardInfo from "./models/CardInfo";
 import MathEnJeu from "./pages/Projects/MathEnJeu/MathEnJeu";
 import Lightbeans from "./pages/Projects/Lightbeans/Lightbeans";
 import EyeDesigner from "./pages/Projects/EyeDesigner/EyeDesigner";
-import { ReactComponent as ScrollButton } from "./assets/images/scroll_up_button.svg";
+import ScrollButton from "./assets/images/scroll_up_button.svg?react";
 import ScrollUp from "./components/ScrollUp/ScrollUp";
 
 function App() {

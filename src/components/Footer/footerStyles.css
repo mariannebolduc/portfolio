@@ -1,15 +1,11 @@
 .footer-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   color: #282c34;
   min-height: 96px;
   margin-bottom: 27px;
-}
-
-.footer-item1 {
-  margin-left: 30px;
 }
 
 .footer-item2 {
@@ -39,14 +35,4 @@
   font-size: 30px;
   position: relative;
   top: 3px;
-}
-
-@media only screen and (min-width: 768px) {
-  .footer-item1 {
-    margin-left: 80px;
-  }
-
-  .footer-item2 {
-    margin-right: 80px;
-  }
 }
